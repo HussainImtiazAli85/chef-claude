@@ -1,5 +1,7 @@
 # Chef Claude (React)
 
+AI recipe assistant (work in progress).
+
 React app scaffolded with Vite for fast development and simple builds.
 
 Repository: https://github.com/HussainImtiazAli85/chef-claude
